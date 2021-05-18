@@ -1,3 +1,3 @@
-# ASPNET Core MVC - Básico.
+# ASPNET Core MVC - Projeto palavras
 
 Este e meu projeto feito para testar mesu conhecimentos .net
